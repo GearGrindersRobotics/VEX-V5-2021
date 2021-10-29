@@ -1,4 +1,10 @@
 Date:10/29/2021  Person Writing: Adam Salem
-I wasn't mentally feeling well yesterday (10/28/2021) I didn't write in the Github or work on code and Monkar wasn't at the robotics meeting so we didn't work on code.But the rest of the team pulled through and I think next meeting we will be ready to attach the claw and the vertical slide for the claw to go up and down it's going to be epic. If I have time I will include pictures of the robot and the claw and the vertical slide.
+I wasn't mentally feeling well yesterday (10/28/2021) I didn't write in the Github 
+or work on code and Monkar wasn't at the robotics meeting so we didn't work on code.
+But the rest of the team pulled through and I think next meeting we will be ready to attach the claw 
+and the vertical slide for the claw to go up and down it's going to be epic.
+If I have time I will include pictures of the robot and the claw and the vertical slide.
 
-Let me explain how the vertical slide going to work so our motor is going to rotate with a gear attached and push a gear track up and down making the metal piece with the claw go up and down. So we can reach higher places and reach lower places.
+Let me explain how the vertical slide going to work so our motor
+is going to rotate with a gear attached and push a gear track up and down making 
+the metal piece with the claw go up and down. So we can reach higher places and reach lower places.
