@@ -1,1 +1,12 @@
-UPDATE
+Written on 12/16/2021                                                 By: Adam Salem
+
+This is to recap recent events that were not documented. Soooooo, alot happend we had the battle of the bridge and our robot was NOT ready for it!
+long story short we were rushing to get it ready and we took off the vertical slide and claw to rebuild the support stucture RIGHT BEFORE out first match
+we got the new supports on and it was still flimsy. Anyways we lost all of our games exepct for one we got a tie for one of them I think. I'm pretty sure we would have gotten another tie for another game but the team moved some stuff at the last second when the refferees told them not to but they did and we lost again.
+Everyone on the team decided that the best course of action was to scrap the robot and build a new one based off of the high schoolers designs.
+The high schoolers had conveyor belts that picked up the rings and droped them into the goal, a little bit unusual but it worked and most conveyor belt designs got 1st.
+We looked into phnematics to save motors but we decided to only use it if we absolutly needed to save a motor. We want to also put a fork lift on the back of the robot.
+
+
+Present Day 
+The Whole team has been working their hardest and we have gotten alot of the autonomous done i'll share that code in this folder. anyways the teams doing great and working together very serious about this right now. We might elect a Team Captain! To keep everyone in check making sure everyone is on task. We still need to order another blue motor because we are trying to make out robot very fast because the Autonomous period is very important and you only have 15 seconds of autonomous before it's over which isn't alot of time to score points. Also today is our last practice before christmas break! All probably put all of this in the engineering notebook later too. 
